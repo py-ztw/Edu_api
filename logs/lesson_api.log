@@ -621,3 +621,491 @@ INFO 2020-07-08 21:41:20,868 basehttp 124 "GET /home/nav/ HTTP/1.1" 200 555
 INFO 2020-07-08 21:41:20,893 basehttp 124 "GET /media/banner/120P3132330-4_tOZXZtc.jpg HTTP/1.1" 304 0
 INFO 2020-07-08 21:41:20,898 basehttp 124 "GET /media/banner/3dbcb2a9d8da469db071116bf60529e2_xv5ZUIF.jpeg HTTP/1.1" 304 0
 INFO 2020-07-08 21:41:20,906 basehttp 124 "GET /media/banner/19766807_160125295000_2_22R7AkE.jpg HTTP/1.1" 304 0
+INFO 2020-07-08 21:45:25,653 basehttp 124 "GET /home/banner/ HTTP/1.1" 200 367
+INFO 2020-07-08 21:45:25,653 basehttp 124 "GET /home/nav/ HTTP/1.1" 200 555
+INFO 2020-07-08 21:50:28,887 basehttp 124 "GET /home/nav/ HTTP/1.1" 200 555
+INFO 2020-07-08 21:50:30,927 basehttp 124 "GET /home/nav/ HTTP/1.1" 200 555
+INFO 2020-07-08 21:58:11,076 basehttp 124 "GET /home/nav/ HTTP/1.1" 200 555
+INFO 2020-07-08 21:58:11,079 basehttp 124 "GET /home/banner/ HTTP/1.1" 200 367
+INFO 2020-07-08 21:58:11,107 basehttp 124 "GET /media/banner/120P3132330-4_tOZXZtc.jpg HTTP/1.1" 304 0
+INFO 2020-07-08 21:58:11,109 basehttp 124 "GET /media/banner/3dbcb2a9d8da469db071116bf60529e2_xv5ZUIF.jpeg HTTP/1.1" 304 0
+INFO 2020-07-08 21:58:11,141 basehttp 124 "GET /media/banner/19766807_160125295000_2_22R7AkE.jpg HTTP/1.1" 304 0
+INFO 2020-07-08 21:58:13,130 basehttp 124 "GET /home/nav/ HTTP/1.1" 200 555
+WARNING 2020-07-09 16:59:41,853 base 93 Not Found: /
+WARNING 2020-07-09 16:59:41,858 basehttp 124 "GET / HTTP/1.1" 404 2163
+WARNING 2020-07-09 16:59:41,934 base 93 Not Found: /favicon.ico
+WARNING 2020-07-09 16:59:41,935 basehttp 124 "GET /favicon.ico HTTP/1.1" 404 2214
+INFO 2020-07-09 16:59:54,769 basehttp 124 "GET /home/banner/ HTTP/1.1" 200 6315
+WARNING 2020-07-09 17:00:01,598 base 93 Not Found: /home/
+WARNING 2020-07-09 17:00:01,600 basehttp 124 "GET /home/ HTTP/1.1" 404 2406
+INFO 2020-07-09 17:00:16,292 basehttp 124 "GET /home/banner/ HTTP/1.1" 200 367
+INFO 2020-07-09 17:00:16,346 basehttp 124 "GET /media/banner/120P3132330-4_tOZXZtc.jpg HTTP/1.1" 304 0
+INFO 2020-07-09 17:00:16,347 basehttp 124 "GET /media/banner/3dbcb2a9d8da469db071116bf60529e2_xv5ZUIF.jpeg HTTP/1.1" 304 0
+INFO 2020-07-09 17:00:16,348 basehttp 124 "GET /media/banner/19766807_160125295000_2_22R7AkE.jpg HTTP/1.1" 304 0
+INFO 2020-07-09 17:00:16,371 basehttp 124 "GET /home/nav/ HTTP/1.1" 200 667
+INFO 2020-07-09 17:00:18,422 basehttp 124 "GET /home/nav/ HTTP/1.1" 200 667
+INFO 2020-07-09 17:01:04,440 basehttp 124 "GET /xadmin/ HTTP/1.1" 200 14798
+INFO 2020-07-09 17:01:05,634 basehttp 124 "GET /static/xadmin/vendor/bootstrap/css/bootstrap.css HTTP/1.1" 304 0
+INFO 2020-07-09 17:01:05,667 basehttp 124 "GET /static/xadmin/css/themes/bootstrap-xadmin.css HTTP/1.1" 304 0
+INFO 2020-07-09 17:01:05,668 basehttp 124 "GET /static/xadmin/css/xadmin.main.css HTTP/1.1" 304 0
+INFO 2020-07-09 17:01:05,668 basehttp 124 "GET /static/xadmin/css/xadmin.responsive.css HTTP/1.1" 304 0
+INFO 2020-07-09 17:01:05,669 basehttp 124 "GET /static/xadmin/vendor/font-awesome/css/font-awesome.css HTTP/1.1" 304 0
+INFO 2020-07-09 17:01:05,669 basehttp 124 "GET /static/xadmin/css/xadmin.plugins.css HTTP/1.1" 304 0
+INFO 2020-07-09 17:01:05,671 basehttp 124 "GET /static/xadmin/css/xadmin.page.dashboard.css HTTP/1.1" 304 0
+INFO 2020-07-09 17:01:05,697 basehttp 124 "GET /static/xadmin/vendor/bootstrap/js/bootstrap.js HTTP/1.1" 304 0
+INFO 2020-07-09 17:01:05,704 basehttp 124 "GET /static/xadmin/js/xadmin.responsive.js HTTP/1.1" 304 0
+INFO 2020-07-09 17:01:05,711 basehttp 124 "GET /static/xadmin/js/xadmin.plugin.themes.js HTTP/1.1" 304 0
+INFO 2020-07-09 17:01:05,716 basehttp 124 "GET /static/xadmin/js/xadmin.plugin.portal.js HTTP/1.1" 304 0
+INFO 2020-07-09 17:01:05,719 basehttp 124 "GET /static/xadmin/vendor/jquery-ui/jquery.ui.widget.js HTTP/1.1" 304 0
+INFO 2020-07-09 17:01:05,720 basehttp 124 "GET /static/xadmin/vendor/jquery-ui/jquery.ui.core.js HTTP/1.1" 304 0
+INFO 2020-07-09 17:01:05,722 basehttp 124 "GET /static/xadmin/vendor/jquery-ui/jquery.ui.mouse.js HTTP/1.1" 304 0
+INFO 2020-07-09 17:01:05,723 basehttp 124 "GET /static/xadmin/vendor/jquery-ui/jquery.ui.sortable.js HTTP/1.1" 304 0
+INFO 2020-07-09 17:01:05,727 basehttp 124 "GET /static/xadmin/js/xadmin.main.js HTTP/1.1" 304 0
+INFO 2020-07-09 17:01:05,732 basehttp 124 "GET /static/xadmin/vendor/jquery-ui/jquery.ui.effect.js HTTP/1.1" 304 0
+INFO 2020-07-09 17:01:05,732 basehttp 124 "GET /static/xadmin/js/xadmin.page.dashboard.js HTTP/1.1" 304 0
+INFO 2020-07-09 17:01:05,749 basehttp 124 "GET /static/xadmin/vendor/jquery/jquery.js HTTP/1.1" 304 0
+INFO 2020-07-09 17:01:07,751 basehttp 124 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7678
+INFO 2020-07-09 17:01:07,827 basehttp 124 "GET /static/xadmin/vendor/font-awesome/fonts/fontawesome-webfont.woff?v=4.0.3 HTTP/1.1" 304 0
+INFO 2020-07-09 17:04:15,149 basehttp 124 "GET /home/banner/ HTTP/1.1" 200 367
+INFO 2020-07-09 17:04:15,151 basehttp 124 "GET /home/nav/ HTTP/1.1" 200 665
+INFO 2020-07-09 17:04:17,209 basehttp 124 "GET /home/nav/ HTTP/1.1" 200 665
+INFO 2020-07-09 17:04:29,897 basehttp 124 "GET /home/banner/ HTTP/1.1" 200 367
+INFO 2020-07-09 17:04:29,900 basehttp 124 "GET /home/nav/ HTTP/1.1" 200 665
+INFO 2020-07-09 17:04:31,937 basehttp 124 "GET /home/nav/ HTTP/1.1" 200 665
+INFO 2020-07-09 17:04:48,870 basehttp 124 "GET /home/nav/ HTTP/1.1" 200 665
+INFO 2020-07-09 17:04:59,192 basehttp 124 "GET /home/nav/ HTTP/1.1" 200 665
+INFO 2020-07-09 17:04:59,204 basehttp 124 "GET /home/banner/ HTTP/1.1" 200 367
+INFO 2020-07-09 17:05:01,239 basehttp 124 "GET /home/nav/ HTTP/1.1" 200 665
+INFO 2020-07-09 17:05:56,132 basehttp 124 "GET /home/nav/ HTTP/1.1" 200 665
+INFO 2020-07-09 17:06:04,936 basehttp 124 "GET /home/nav/ HTTP/1.1" 200 665
+INFO 2020-07-09 17:06:04,939 basehttp 124 "GET /home/banner/ HTTP/1.1" 200 367
+ERROR 2020-07-09 17:06:04,946 basehttp 124 "GET /home/banner/ HTTP/1.1" 500 59
+ERROR 2020-07-09 17:06:04,946 basehttp 124 "GET /home/nav/ HTTP/1.1" 500 59
+INFO 2020-07-09 17:06:07,553 basehttp 124 "GET /home/banner/ HTTP/1.1" 200 367
+INFO 2020-07-09 17:06:07,564 basehttp 124 "GET /home/nav/ HTTP/1.1" 200 665
+INFO 2020-07-09 17:06:09,603 basehttp 124 "GET /home/nav/ HTTP/1.1" 200 665
+INFO 2020-07-09 17:06:55,147 basehttp 124 "GET /home/nav/ HTTP/1.1" 200 665
+ERROR 2020-07-09 17:06:55,148 basehttp 124 "GET /home/nav/ HTTP/1.1" 500 59
+INFO 2020-07-09 17:06:56,902 basehttp 124 "GET /home/nav/ HTTP/1.1" 200 665
+INFO 2020-07-09 17:06:56,906 basehttp 124 "GET /home/banner/ HTTP/1.1" 200 367
+INFO 2020-07-09 17:06:58,946 basehttp 124 "GET /home/nav/ HTTP/1.1" 200 665
+INFO 2020-07-09 17:07:30,757 basehttp 124 "GET /home/nav/ HTTP/1.1" 200 665
+INFO 2020-07-09 17:07:37,363 basehttp 124 "GET /home/nav/ HTTP/1.1" 200 665
+INFO 2020-07-09 17:07:37,385 basehttp 124 "GET /home/banner/ HTTP/1.1" 200 367
+INFO 2020-07-09 17:07:39,409 basehttp 124 "GET /home/nav/ HTTP/1.1" 200 665
+INFO 2020-07-09 17:10:23,968 basehttp 124 "GET /home/nav/ HTTP/1.1" 200 665
+INFO 2020-07-09 17:10:23,979 basehttp 124 "GET /home/banner/ HTTP/1.1" 200 367
+INFO 2020-07-09 17:10:26,014 basehttp 124 "GET /home/nav/ HTTP/1.1" 200 665
+ERROR 2020-07-09 17:10:26,015 basehttp 124 "GET /home/nav/ HTTP/1.1" 500 59
+INFO 2020-07-09 17:10:27,831 basehttp 124 "GET /home/nav/ HTTP/1.1" 200 665
+INFO 2020-07-09 17:10:27,836 basehttp 124 "GET /home/banner/ HTTP/1.1" 200 367
+INFO 2020-07-09 17:10:29,874 basehttp 124 "GET /home/nav/ HTTP/1.1" 200 665
+INFO 2020-07-09 17:12:20,824 basehttp 124 "GET /home/nav/ HTTP/1.1" 200 665
+INFO 2020-07-09 17:12:20,829 basehttp 124 "GET /home/banner/ HTTP/1.1" 200 367
+INFO 2020-07-09 17:12:22,869 basehttp 124 "GET /home/nav/ HTTP/1.1" 200 665
+INFO 2020-07-09 17:13:31,935 basehttp 124 "GET /home/nav/ HTTP/1.1" 200 665
+INFO 2020-07-09 17:13:31,945 basehttp 124 "GET /home/banner/ HTTP/1.1" 200 367
+INFO 2020-07-09 17:13:33,978 basehttp 124 "GET /home/nav/ HTTP/1.1" 200 665
+INFO 2020-07-09 17:13:39,676 basehttp 124 "GET /home/nav/ HTTP/1.1" 200 665
+INFO 2020-07-09 17:13:39,680 basehttp 124 "GET /home/banner/ HTTP/1.1" 200 367
+INFO 2020-07-09 17:13:41,721 basehttp 124 "GET /home/nav/ HTTP/1.1" 200 665
+INFO 2020-07-09 17:13:56,217 basehttp 124 "GET /home/nav/ HTTP/1.1" 200 665
+INFO 2020-07-09 17:13:56,224 basehttp 124 "GET /home/banner/ HTTP/1.1" 200 367
+INFO 2020-07-09 17:13:58,263 basehttp 124 "GET /home/nav/ HTTP/1.1" 200 665
+INFO 2020-07-09 17:14:36,341 basehttp 124 "GET /home/nav/ HTTP/1.1" 200 665
+INFO 2020-07-09 17:14:36,355 basehttp 124 "GET /home/banner/ HTTP/1.1" 200 367
+INFO 2020-07-09 17:14:38,385 basehttp 124 "GET /home/nav/ HTTP/1.1" 200 665
+INFO 2020-07-09 17:14:38,399 basehttp 124 "GET /home/banner/ HTTP/1.1" 200 367
+INFO 2020-07-09 17:14:40,428 basehttp 124 "GET /home/nav/ HTTP/1.1" 200 665
+INFO 2020-07-09 17:14:42,162 basehttp 124 "GET /home/banner/ HTTP/1.1" 200 367
+INFO 2020-07-09 17:14:42,464 basehttp 124 "GET /home/nav/ HTTP/1.1" 200 665
+INFO 2020-07-09 17:14:44,500 basehttp 124 "GET /home/nav/ HTTP/1.1" 200 665
+INFO 2020-07-09 17:14:46,543 basehttp 124 "GET /home/nav/ HTTP/1.1" 200 665
+INFO 2020-07-09 17:19:20,463 basehttp 124 "GET /home/banner/ HTTP/1.1" 200 367
+INFO 2020-07-09 17:19:20,466 basehttp 124 "GET /home/nav/ HTTP/1.1" 200 665
+INFO 2020-07-09 17:19:22,506 basehttp 124 "GET /home/nav/ HTTP/1.1" 200 665
+INFO 2020-07-09 17:19:27,606 basehttp 124 "GET /home/banner/ HTTP/1.1" 200 367
+INFO 2020-07-09 17:19:27,607 basehttp 124 "GET /home/nav/ HTTP/1.1" 200 665
+INFO 2020-07-09 17:19:29,644 basehttp 124 "GET /home/nav/ HTTP/1.1" 200 665
+INFO 2020-07-09 17:26:20,214 basehttp 124 "GET /home/nav/ HTTP/1.1" 200 665
+INFO 2020-07-09 17:26:20,218 basehttp 124 "GET /home/banner/ HTTP/1.1" 200 367
+INFO 2020-07-09 17:26:22,250 basehttp 124 "GET /home/nav/ HTTP/1.1" 200 665
+INFO 2020-07-09 17:30:47,805 basehttp 124 "GET /home/nav/ HTTP/1.1" 200 665
+INFO 2020-07-09 17:30:47,817 basehttp 124 "GET /home/banner/ HTTP/1.1" 200 367
+INFO 2020-07-09 17:30:49,846 basehttp 124 "GET /home/nav/ HTTP/1.1" 200 665
+INFO 2020-07-09 17:30:53,708 basehttp 124 "GET /home/banner/ HTTP/1.1" 200 367
+INFO 2020-07-09 17:30:53,709 basehttp 124 "GET /home/nav/ HTTP/1.1" 200 665
+INFO 2020-07-09 17:30:55,752 basehttp 124 "GET /home/nav/ HTTP/1.1" 200 665
+ERROR 2020-07-09 17:59:15,141 exception 74 Invalid HTTP_HOST header: '127.0.0.1:8000'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+WARNING 2020-07-09 17:59:15,415 basehttp 124 "GET / HTTP/1.1" 400 72608
+ERROR 2020-07-09 17:59:15,672 exception 74 Invalid HTTP_HOST header: '127.0.0.1:8000'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+WARNING 2020-07-09 17:59:15,704 basehttp 124 "GET /favicon.ico HTTP/1.1" 400 72520
+ERROR 2020-07-09 17:59:30,326 exceptions 13 <home.views.BannerListAPIView object at 0x0000016AC3E11908> GET (1146, "Table 'ems.bz_user' doesn't exist")
+ERROR 2020-07-09 17:59:30,333 exception 118 Internal Server Error: /home/banner/
+Traceback (most recent call last):
+  File "D:\vedio\django\python2002\env2002\lib\site-packages\django\db\backends\utils.py", line 85, in _execute
+    return self.cursor.execute(sql, params)
+  File "D:\vedio\django\python2002\env2002\lib\site-packages\django\db\backends\mysql\base.py", line 71, in execute
+    return self.cursor.execute(query, args)
+  File "D:\vedio\django\python2002\env2002\lib\site-packages\MySQLdb\cursors.py", line 250, in execute
+    self.errorhandler(self, exc, value)
+  File "D:\vedio\django\python2002\env2002\lib\site-packages\MySQLdb\connections.py", line 50, in defaulterrorhandler
+    raise errorvalue
+  File "D:\vedio\django\python2002\env2002\lib\site-packages\MySQLdb\cursors.py", line 247, in execute
+    res = self._query(query)
+  File "D:\vedio\django\python2002\env2002\lib\site-packages\MySQLdb\cursors.py", line 411, in _query
+    rowcount = self._do_query(q)
+  File "D:\vedio\django\python2002\env2002\lib\site-packages\MySQLdb\cursors.py", line 374, in _do_query
+    db.query(q)
+  File "D:\vedio\django\python2002\env2002\lib\site-packages\MySQLdb\connections.py", line 277, in query
+    _mysql.connection.query(self, query)
+_mysql_exceptions.ProgrammingError: (1146, "Table 'ems.bz_user' doesn't exist")
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\vedio\django\python2002\env2002\lib\site-packages\django\core\handlers\exception.py", line 35, in inner
+    response = get_response(request)
+  File "D:\vedio\django\python2002\env2002\lib\site-packages\django\core\handlers\base.py", line 158, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "D:\vedio\django\python2002\env2002\lib\site-packages\django\core\handlers\base.py", line 156, in _get_response
+    response = response.render()
+  File "D:\vedio\django\python2002\env2002\lib\site-packages\django\template\response.py", line 106, in render
+    self.content = self.rendered_content
+  File "D:\vedio\django\python2002\env2002\lib\site-packages\rest_framework\response.py", line 70, in rendered_content
+    ret = renderer.render(self.data, accepted_media_type, context)
+  File "D:\vedio\django\python2002\env2002\lib\site-packages\rest_framework\renderers.py", line 725, in render
+    context = self.get_context(data, accepted_media_type, renderer_context)
+  File "D:\vedio\django\python2002\env2002\lib\site-packages\rest_framework\renderers.py", line 686, in get_context
+    'user': request.user,
+  File "D:\vedio\django\python2002\env2002\lib\site-packages\rest_framework\request.py", line 220, in user
+    self._authenticate()
+  File "D:\vedio\django\python2002\env2002\lib\site-packages\rest_framework\request.py", line 373, in _authenticate
+    user_auth_tuple = authenticator.authenticate(self)
+  File "D:\vedio\django\python2002\env2002\lib\site-packages\rest_framework\authentication.py", line 123, in authenticate
+    if not user or not user.is_active:
+  File "D:\vedio\django\python2002\env2002\lib\site-packages\django\utils\functional.py", line 215, in inner
+    self._setup()
+  File "D:\vedio\django\python2002\env2002\lib\site-packages\django\utils\functional.py", line 349, in _setup
+    self._wrapped = self._setupfunc()
+  File "D:\vedio\django\python2002\env2002\lib\site-packages\django\contrib\auth\middleware.py", line 24, in <lambda>
+    request.user = SimpleLazyObject(lambda: get_user(request))
+  File "D:\vedio\django\python2002\env2002\lib\site-packages\django\contrib\auth\middleware.py", line 12, in get_user
+    request._cached_user = auth.get_user(request)
+  File "D:\vedio\django\python2002\env2002\lib\site-packages\django\contrib\auth\__init__.py", line 218, in get_user
+    user = backend.get_user(user_id)
+  File "D:\vedio\django\python2002\env2002\lib\site-packages\django\contrib\auth\backends.py", line 101, in get_user
+    user = UserModel._default_manager.get(pk=user_id)
+  File "D:\vedio\django\python2002\env2002\lib\site-packages\django\db\models\manager.py", line 82, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "D:\vedio\django\python2002\env2002\lib\site-packages\django\db\models\query.py", line 397, in get
+    num = len(clone)
+  File "D:\vedio\django\python2002\env2002\lib\site-packages\django\db\models\query.py", line 254, in __len__
+    self._fetch_all()
+  File "D:\vedio\django\python2002\env2002\lib\site-packages\django\db\models\query.py", line 1179, in _fetch_all
+    self._result_cache = list(self._iterable_class(self))
+  File "D:\vedio\django\python2002\env2002\lib\site-packages\django\db\models\query.py", line 53, in __iter__
+    results = compiler.execute_sql(chunked_fetch=self.chunked_fetch, chunk_size=self.chunk_size)
+  File "D:\vedio\django\python2002\env2002\lib\site-packages\django\db\models\sql\compiler.py", line 1064, in execute_sql
+    cursor.execute(sql, params)
+  File "D:\vedio\django\python2002\env2002\lib\site-packages\django\db\backends\utils.py", line 100, in execute
+    return super().execute(sql, params)
+  File "D:\vedio\django\python2002\env2002\lib\site-packages\django\db\backends\utils.py", line 68, in execute
+    return self._execute_with_wrappers(sql, params, many=False, executor=self._execute)
+  File "D:\vedio\django\python2002\env2002\lib\site-packages\django\db\backends\utils.py", line 77, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "D:\vedio\django\python2002\env2002\lib\site-packages\django\db\backends\utils.py", line 85, in _execute
+    return self.cursor.execute(sql, params)
+  File "D:\vedio\django\python2002\env2002\lib\site-packages\django\db\utils.py", line 89, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "D:\vedio\django\python2002\env2002\lib\site-packages\django\db\backends\utils.py", line 85, in _execute
+    return self.cursor.execute(sql, params)
+  File "D:\vedio\django\python2002\env2002\lib\site-packages\django\db\backends\mysql\base.py", line 71, in execute
+    return self.cursor.execute(query, args)
+  File "D:\vedio\django\python2002\env2002\lib\site-packages\MySQLdb\cursors.py", line 250, in execute
+    self.errorhandler(self, exc, value)
+  File "D:\vedio\django\python2002\env2002\lib\site-packages\MySQLdb\connections.py", line 50, in defaulterrorhandler
+    raise errorvalue
+  File "D:\vedio\django\python2002\env2002\lib\site-packages\MySQLdb\cursors.py", line 247, in execute
+    res = self._query(query)
+  File "D:\vedio\django\python2002\env2002\lib\site-packages\MySQLdb\cursors.py", line 411, in _query
+    rowcount = self._do_query(q)
+  File "D:\vedio\django\python2002\env2002\lib\site-packages\MySQLdb\cursors.py", line 374, in _do_query
+    db.query(q)
+  File "D:\vedio\django\python2002\env2002\lib\site-packages\MySQLdb\connections.py", line 277, in query
+    _mysql.connection.query(self, query)
+django.db.utils.ProgrammingError: (1146, "Table 'ems.bz_user' doesn't exist")
+ERROR 2020-07-09 17:59:30,592 basehttp 124 "GET /home/banner/ HTTP/1.1" 500 250311
+WARNING 2020-07-09 17:59:30,906 base 93 Not Found: /favicon.ico
+WARNING 2020-07-09 17:59:30,907 basehttp 124 "GET /favicon.ico HTTP/1.1" 404 2319
+WARNING 2020-07-09 17:59:38,140 base 93 Not Found: /user/
+WARNING 2020-07-09 17:59:38,141 basehttp 124 "GET /user/ HTTP/1.1" 404 2354
+WARNING 2020-07-09 17:59:55,392 basehttp 124 "GET /user/login/ HTTP/1.1" 405 7689
+ERROR 2020-07-09 18:00:10,309 exceptions 13 <rest_framework_jwt.views.ObtainJSONWebToken object at 0x0000016AC3F95BE0> POST (1146, "Table 'ems.bz_user' doesn't exist")
+ERROR 2020-07-09 18:00:10,330 basehttp 124 "POST /user/login/ HTTP/1.1" 500 7682
+ERROR 2020-07-09 18:00:20,883 exceptions 13 <rest_framework_jwt.views.ObtainJSONWebToken object at 0x0000016AC3F6BCC0> POST (1146, "Table 'ems.bz_user' doesn't exist")
+ERROR 2020-07-09 18:00:20,903 basehttp 124 "POST /user/login/ HTTP/1.1" 500 7682
+ERROR 2020-07-09 18:10:02,743 exception 74 Invalid HTTP_HOST header: '127.0.0.1:8000'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+WARNING 2020-07-09 18:10:02,949 basehttp 124 "GET / HTTP/1.1" 400 72611
+ERROR 2020-07-09 18:10:03,166 exception 74 Invalid HTTP_HOST header: '127.0.0.1:8000'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+WARNING 2020-07-09 18:10:03,204 basehttp 124 "GET /favicon.ico HTTP/1.1" 400 72525
+ERROR 2020-07-09 18:10:23,473 exception 74 Invalid HTTP_HOST header: '127.0.0.1:8000'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+WARNING 2020-07-09 18:10:23,502 basehttp 124 "GET /user/ HTTP/1.1" 400 72667
+ERROR 2020-07-09 18:10:23,582 exception 74 Invalid HTTP_HOST header: '127.0.0.1:8000'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+WARNING 2020-07-09 18:10:23,615 basehttp 124 "GET /favicon.ico HTTP/1.1" 400 72530
+INFO 2020-07-09 18:10:36,067 basehttp 124 "GET /home/banner/ HTTP/1.1" 200 5222
+WARNING 2020-07-09 18:11:03,168 basehttp 124 "POST /user/login/ HTTP/1.1" 400 7734
+WARNING 2020-07-09 18:11:19,376 basehttp 124 "POST /user/login/ HTTP/1.1" 400 7733
+INFO 2020-07-09 18:13:16,433 basehttp 124 "POST /user/login/ HTTP/1.1" 200 7897
+INFO 2020-07-09 18:13:48,973 basehttp 124 "GET /xadmin/ HTTP/1.1" 200 4366
+INFO 2020-07-09 18:13:49,023 basehttp 124 "GET /xadmin/jsi18n/ HTTP/1.1" 200 4373
+INFO 2020-07-09 18:14:04,224 basehttp 124 "POST /xadmin/ HTTP/1.1" 302 0
+INFO 2020-07-09 18:14:08,051 basehttp 124 "GET /xadmin/ HTTP/1.1" 200 15548
+INFO 2020-07-09 18:14:10,109 basehttp 124 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7678
+INFO 2020-07-09 18:14:19,506 basehttp 124 "GET /xadmin/home/banner/ HTTP/1.1" 200 25087
+INFO 2020-07-09 18:14:19,535 basehttp 124 "GET /static/xadmin/css/xadmin.form.css HTTP/1.1" 304 0
+INFO 2020-07-09 18:14:19,546 basehttp 124 "GET /static/xadmin/js/xadmin.plugin.details.js HTTP/1.1" 304 0
+INFO 2020-07-09 18:14:19,546 basehttp 124 "GET /static/xadmin/js/xadmin.plugin.bookmark.js HTTP/1.1" 304 0
+INFO 2020-07-09 18:14:19,554 basehttp 124 "GET /static/xadmin/js/xadmin.plugin.filters.js HTTP/1.1" 304 0
+INFO 2020-07-09 18:14:19,560 basehttp 124 "GET /static/xadmin/js/xadmin.page.list.js HTTP/1.1" 304 0
+INFO 2020-07-09 18:14:19,561 basehttp 124 "GET /static/xadmin/js/xadmin.page.form.js HTTP/1.1" 304 0
+INFO 2020-07-09 18:14:21,573 basehttp 124 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7678
+INFO 2020-07-09 18:14:26,443 basehttp 124 "GET /xadmin/home/banner/add/ HTTP/1.1" 200 20623
+INFO 2020-07-09 18:14:26,470 basehttp 124 "GET /static/xadmin/vendor/bootstrap-image-gallery/css/bootstrap-image-gallery.css HTTP/1.1" 304 0
+INFO 2020-07-09 18:14:26,478 basehttp 124 "GET /static/xadmin/vendor/load-image/load-image.js HTTP/1.1" 304 0
+INFO 2020-07-09 18:14:26,482 basehttp 124 "GET /static/xadmin/vendor/bootstrap-image-gallery/js/bootstrap-image-gallery.js HTTP/1.1" 304 0
+INFO 2020-07-09 18:14:28,509 basehttp 124 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7678
+INFO 2020-07-09 18:14:43,671 basehttp 124 "POST /xadmin/home/banner/add/ HTTP/1.1" 302 0
+INFO 2020-07-09 18:14:45,787 basehttp 124 "GET /xadmin/home/banner/add/ HTTP/1.1" 200 20964
+INFO 2020-07-09 18:14:47,846 basehttp 124 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7678
+INFO 2020-07-09 18:15:02,658 basehttp 124 "POST /xadmin/home/banner/add/ HTTP/1.1" 302 0
+INFO 2020-07-09 18:15:04,776 basehttp 124 "GET /xadmin/home/banner/add/ HTTP/1.1" 200 20964
+INFO 2020-07-09 18:15:06,829 basehttp 124 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7678
+INFO 2020-07-09 18:15:20,456 basehttp 124 "POST /xadmin/home/banner/add/ HTTP/1.1" 302 0
+INFO 2020-07-09 18:15:22,591 basehttp 124 "GET /xadmin/home/banner/ HTTP/1.1" 200 30284
+INFO 2020-07-09 18:15:22,624 basehttp 124 "GET /static/xadmin/js/xadmin.plugin.actions.js HTTP/1.1" 304 0
+INFO 2020-07-09 18:15:24,655 basehttp 124 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7678
+INFO 2020-07-09 18:15:30,803 basehttp 124 "GET /xadmin/home/nav/ HTTP/1.1" 200 25650
+INFO 2020-07-09 18:15:32,862 basehttp 124 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7678
+INFO 2020-07-09 18:15:39,165 basehttp 124 "GET /xadmin/home/nav/add/ HTTP/1.1" 200 19939
+INFO 2020-07-09 18:15:39,191 basehttp 124 "GET /static/xadmin/vendor/select2/select2.css HTTP/1.1" 304 0
+INFO 2020-07-09 18:15:39,199 basehttp 124 "GET /static/xadmin/vendor/selectize/selectize.css HTTP/1.1" 304 0
+INFO 2020-07-09 18:15:39,200 basehttp 124 "GET /static/xadmin/vendor/selectize/selectize.bootstrap3.css HTTP/1.1" 304 0
+INFO 2020-07-09 18:15:39,204 basehttp 124 "GET /static/xadmin/vendor/selectize/selectize.js HTTP/1.1" 304 0
+INFO 2020-07-09 18:15:39,212 basehttp 124 "GET /static/xadmin/vendor/select2/select2.js HTTP/1.1" 304 0
+INFO 2020-07-09 18:15:39,220 basehttp 124 "GET /static/xadmin/vendor/select2/select2_locale_zh-hans.js HTTP/1.1" 304 0
+INFO 2020-07-09 18:15:39,221 basehttp 124 "GET /static/xadmin/js/xadmin.widget.select.js HTTP/1.1" 304 0
+INFO 2020-07-09 18:15:41,238 basehttp 124 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7678
+INFO 2020-07-09 18:16:02,289 basehttp 124 "POST /xadmin/home/nav/add/ HTTP/1.1" 302 0
+INFO 2020-07-09 18:16:04,435 basehttp 124 "GET /xadmin/home/nav/add/ HTTP/1.1" 200 20289
+INFO 2020-07-09 18:16:06,494 basehttp 124 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7678
+INFO 2020-07-09 18:16:21,227 basehttp 124 "POST /xadmin/home/nav/add/ HTTP/1.1" 302 0
+INFO 2020-07-09 18:16:23,349 basehttp 124 "GET /xadmin/home/nav/add/ HTTP/1.1" 200 20282
+INFO 2020-07-09 18:16:25,409 basehttp 124 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7678
+INFO 2020-07-09 18:16:36,697 basehttp 124 "POST /xadmin/home/nav/add/ HTTP/1.1" 302 0
+INFO 2020-07-09 18:16:38,815 basehttp 124 "GET /xadmin/home/nav/add/ HTTP/1.1" 200 20282
+INFO 2020-07-09 18:16:40,876 basehttp 124 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7678
+INFO 2020-07-09 18:17:18,641 basehttp 124 "POST /xadmin/home/nav/add/ HTTP/1.1" 302 0
+INFO 2020-07-09 18:17:20,753 basehttp 124 "GET /xadmin/home/nav/add/ HTTP/1.1" 200 20279
+INFO 2020-07-09 18:17:22,821 basehttp 124 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7678
+INFO 2020-07-09 18:17:40,624 basehttp 124 "POST /xadmin/home/nav/add/ HTTP/1.1" 302 0
+INFO 2020-07-09 18:17:42,741 basehttp 124 "GET /xadmin/home/nav/ HTTP/1.1" 200 32026
+INFO 2020-07-09 18:17:44,805 basehttp 124 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7678
+INFO 2020-07-09 18:18:01,056 basehttp 124 "GET /home/nav/ HTTP/1.1" 200 432
+INFO 2020-07-09 18:18:01,057 basehttp 124 "GET /home/banner/ HTTP/1.1" 200 342
+INFO 2020-07-09 18:18:01,105 basehttp 124 "GET /media/banner/120P3132330-0.jpg HTTP/1.1" 200 1252975
+INFO 2020-07-09 18:18:01,106 basehttp 124 "GET /media/banner/120P3132330-15.jpg HTTP/1.1" 200 1198036
+INFO 2020-07-09 18:18:01,107 basehttp 124 "GET /media/banner/3dbcb2a9d8da469db071116bf60529e2_heji6df.jpeg HTTP/1.1" 200 410254
+INFO 2020-07-09 18:18:03,097 basehttp 124 "GET /home/nav/ HTTP/1.1" 200 432
+INFO 2020-07-09 18:28:18,328 basehttp 124 "OPTIONS /user/login/ HTTP/1.1" 200 0
+WARNING 2020-07-09 18:28:18,334 basehttp 124 "POST /user/login/ HTTP/1.1" 400 81
+INFO 2020-07-09 18:28:38,775 basehttp 124 "POST /user/login/ HTTP/1.1" 200 226
+INFO 2020-07-09 18:28:40,891 basehttp 124 "GET /home/nav/ HTTP/1.1" 200 432
+INFO 2020-07-09 18:28:40,902 basehttp 124 "GET /home/banner/ HTTP/1.1" 200 342
+INFO 2020-07-09 18:28:40,933 basehttp 124 "GET /media/banner/120P3132330-0.jpg HTTP/1.1" 304 0
+INFO 2020-07-09 18:28:40,935 basehttp 124 "GET /media/banner/120P3132330-15.jpg HTTP/1.1" 304 0
+INFO 2020-07-09 18:28:40,936 basehttp 124 "GET /media/banner/3dbcb2a9d8da469db071116bf60529e2_heji6df.jpeg HTTP/1.1" 304 0
+INFO 2020-07-09 18:28:42,952 basehttp 124 "GET /home/nav/ HTTP/1.1" 200 432
+INFO 2020-07-09 18:33:43,028 basehttp 124 "POST /user/login/ HTTP/1.1" 200 323
+INFO 2020-07-09 18:33:45,110 basehttp 124 "GET /home/nav/ HTTP/1.1" 200 432
+INFO 2020-07-09 18:33:45,127 basehttp 124 "GET /home/banner/ HTTP/1.1" 200 342
+INFO 2020-07-09 18:33:47,159 basehttp 124 "GET /home/nav/ HTTP/1.1" 200 432
+INFO 2020-07-09 18:49:28,051 basehttp 124 "POST /user/login/ HTTP/1.1" 200 323
+INFO 2020-07-09 18:49:30,169 basehttp 124 "GET /home/banner/ HTTP/1.1" 200 342
+INFO 2020-07-09 18:49:30,170 basehttp 124 "GET /home/nav/ HTTP/1.1" 200 432
+INFO 2020-07-09 18:49:30,222 basehttp 124 "GET /media/banner/120P3132330-0.jpg HTTP/1.1" 304 0
+INFO 2020-07-09 18:49:30,222 basehttp 124 "GET /media/banner/3dbcb2a9d8da469db071116bf60529e2_heji6df.jpeg HTTP/1.1" 304 0
+INFO 2020-07-09 18:49:30,223 basehttp 124 "GET /media/banner/120P3132330-15.jpg HTTP/1.1" 304 0
+INFO 2020-07-09 18:49:32,219 basehttp 124 "GET /home/nav/ HTTP/1.1" 200 432
+INFO 2020-07-09 18:49:46,421 basehttp 124 "GET /home/nav/ HTTP/1.1" 200 432
+INFO 2020-07-09 18:49:46,426 basehttp 124 "GET /home/banner/ HTTP/1.1" 200 342
+INFO 2020-07-09 18:49:48,475 basehttp 124 "GET /home/nav/ HTTP/1.1" 200 432
+WARNING 2020-07-09 18:51:41,633 basehttp 124 "POST /user/login/ HTTP/1.1" 400 67
+INFO 2020-07-09 18:51:57,513 basehttp 124 "POST /user/login/ HTTP/1.1" 200 323
+INFO 2020-07-09 18:51:59,604 basehttp 124 "GET /home/nav/ HTTP/1.1" 200 432
+INFO 2020-07-09 18:51:59,608 basehttp 124 "GET /home/banner/ HTTP/1.1" 200 342
+INFO 2020-07-09 18:52:01,654 basehttp 124 "GET /home/nav/ HTTP/1.1" 200 432
+INFO 2020-07-09 18:55:40,322 basehttp 124 "GET /home/nav/ HTTP/1.1" 200 432
+INFO 2020-07-09 18:58:07,519 basehttp 124 "GET /home/nav/ HTTP/1.1" 200 432
+INFO 2020-07-09 18:58:24,554 basehttp 124 "POST /user/login/ HTTP/1.1" 200 323
+INFO 2020-07-09 18:58:26,645 basehttp 124 "GET /home/nav/ HTTP/1.1" 200 432
+INFO 2020-07-09 18:58:26,661 basehttp 124 "GET /home/banner/ HTTP/1.1" 200 342
+INFO 2020-07-09 18:58:26,685 basehttp 124 "GET /media/banner/120P3132330-0.jpg HTTP/1.1" 304 0
+INFO 2020-07-09 18:58:26,688 basehttp 124 "GET /media/banner/120P3132330-15.jpg HTTP/1.1" 304 0
+INFO 2020-07-09 18:58:26,694 basehttp 124 "GET /media/banner/3dbcb2a9d8da469db071116bf60529e2_heji6df.jpeg HTTP/1.1" 304 0
+INFO 2020-07-09 18:58:28,697 basehttp 124 "GET /home/nav/ HTTP/1.1" 200 432
+INFO 2020-07-09 18:59:51,728 basehttp 124 "GET /home/nav/ HTTP/1.1" 200 432
+INFO 2020-07-09 19:00:05,382 basehttp 124 "POST /user/login/ HTTP/1.1" 200 323
+INFO 2020-07-09 19:00:07,466 basehttp 124 "GET /home/nav/ HTTP/1.1" 200 432
+INFO 2020-07-09 19:00:07,488 basehttp 124 "GET /home/banner/ HTTP/1.1" 200 342
+INFO 2020-07-09 19:00:09,516 basehttp 124 "GET /home/nav/ HTTP/1.1" 200 432
+WARNING 2020-07-09 19:07:47,557 basehttp 124 "POST /user/login/ HTTP/1.1" 400 81
+INFO 2020-07-09 19:08:11,087 basehttp 124 "POST /user/login/ HTTP/1.1" 200 323
+INFO 2020-07-09 19:08:13,190 basehttp 124 "GET /home/nav/ HTTP/1.1" 200 432
+INFO 2020-07-09 19:08:13,193 basehttp 124 "GET /home/banner/ HTTP/1.1" 200 342
+INFO 2020-07-09 19:08:13,222 basehttp 124 "GET /media/banner/120P3132330-0.jpg HTTP/1.1" 304 0
+INFO 2020-07-09 19:08:13,226 basehttp 124 "GET /media/banner/120P3132330-15.jpg HTTP/1.1" 304 0
+INFO 2020-07-09 19:08:13,227 basehttp 124 "GET /media/banner/3dbcb2a9d8da469db071116bf60529e2_heji6df.jpeg HTTP/1.1" 304 0
+INFO 2020-07-09 19:08:15,238 basehttp 124 "GET /home/nav/ HTTP/1.1" 200 432
+WARNING 2020-07-09 19:21:20,029 basehttp 124 "POST /user/login/ HTTP/1.1" 400 81
+INFO 2020-07-09 19:23:24,038 basehttp 124 "GET /home/nav/ HTTP/1.1" 200 432
+INFO 2020-07-09 19:23:24,039 basehttp 124 "GET /home/banner/ HTTP/1.1" 200 342
+INFO 2020-07-09 19:23:24,069 basehttp 124 "GET /media/banner/3dbcb2a9d8da469db071116bf60529e2_heji6df.jpeg HTTP/1.1" 304 0
+INFO 2020-07-09 19:23:24,078 basehttp 124 "GET /media/banner/120P3132330-0.jpg HTTP/1.1" 304 0
+INFO 2020-07-09 19:23:24,079 basehttp 124 "GET /media/banner/120P3132330-15.jpg HTTP/1.1" 304 0
+INFO 2020-07-09 19:23:26,088 basehttp 124 "GET /home/nav/ HTTP/1.1" 200 432
+INFO 2020-07-09 19:25:45,770 basehttp 124 "GET /home/banner/ HTTP/1.1" 200 342
+INFO 2020-07-09 19:25:45,773 basehttp 124 "GET /home/nav/ HTTP/1.1" 200 432
+INFO 2020-07-09 19:25:47,811 basehttp 124 "GET /home/nav/ HTTP/1.1" 200 432
+INFO 2020-07-09 19:26:37,060 basehttp 124 "OPTIONS /user/login/ HTTP/1.1" 200 0
+INFO 2020-07-09 19:26:39,192 basehttp 124 "POST /user/login/ HTTP/1.1" 200 323
+INFO 2020-07-09 19:26:41,273 basehttp 124 "GET /home/banner/ HTTP/1.1" 200 342
+INFO 2020-07-09 19:26:41,277 basehttp 124 "GET /home/nav/ HTTP/1.1" 200 432
+INFO 2020-07-09 19:26:43,312 basehttp 124 "GET /home/nav/ HTTP/1.1" 200 432
+INFO 2020-07-09 19:26:49,163 basehttp 124 "GET /home/nav/ HTTP/1.1" 200 432
+INFO 2020-07-09 19:26:49,166 basehttp 124 "GET /home/banner/ HTTP/1.1" 200 342
+INFO 2020-07-09 19:26:51,215 basehttp 124 "GET /home/nav/ HTTP/1.1" 200 432
+INFO 2020-07-09 19:38:51,027 basehttp 124 "GET /home/banner/ HTTP/1.1" 200 342
+INFO 2020-07-09 19:38:51,029 basehttp 124 "GET /home/nav/ HTTP/1.1" 200 432
+INFO 2020-07-09 19:38:51,043 basehttp 124 "GET /media/banner/120P3132330-0.jpg HTTP/1.1" 304 0
+INFO 2020-07-09 19:38:51,046 basehttp 124 "GET /media/banner/120P3132330-15.jpg HTTP/1.1" 304 0
+INFO 2020-07-09 19:38:51,049 basehttp 124 "GET /media/banner/3dbcb2a9d8da469db071116bf60529e2_heji6df.jpeg HTTP/1.1" 304 0
+INFO 2020-07-09 19:38:53,069 basehttp 124 "GET /home/nav/ HTTP/1.1" 200 432
+INFO 2020-07-09 19:50:45,351 basehttp 124 "GET /user/captcha/?username=admin HTTP/1.1" 200 140
+INFO 2020-07-09 19:50:56,218 basehttp 124 "OPTIONS /user/captcha/ HTTP/1.1" 200 0
+INFO 2020-07-09 19:50:56,224 basehttp 124 "POST /user/captcha/ HTTP/1.1" 200 17
+INFO 2020-07-09 19:50:56,235 basehttp 124 "OPTIONS /user/login/ HTTP/1.1" 200 0
+INFO 2020-07-09 19:50:58,358 basehttp 124 "POST /user/login/ HTTP/1.1" 200 323
+INFO 2020-07-09 19:51:00,445 basehttp 124 "GET /home/nav/ HTTP/1.1" 200 432
+INFO 2020-07-09 19:51:00,449 basehttp 124 "GET /home/banner/ HTTP/1.1" 200 342
+INFO 2020-07-09 19:51:00,483 basehttp 124 "GET /media/banner/120P3132330-0.jpg HTTP/1.1" 304 0
+INFO 2020-07-09 19:51:00,485 basehttp 124 "GET /media/banner/120P3132330-15.jpg HTTP/1.1" 304 0
+INFO 2020-07-09 19:51:00,486 basehttp 124 "GET /media/banner/3dbcb2a9d8da469db071116bf60529e2_heji6df.jpeg HTTP/1.1" 304 0
+INFO 2020-07-09 19:51:02,496 basehttp 124 "GET /home/nav/ HTTP/1.1" 200 432
+WARNING 2020-07-09 20:05:19,512 basehttp 124 "GET /user/captcha/?username= HTTP/1.1" 400 29
+WARNING 2020-07-09 20:05:21,557 basehttp 124 "GET /user/captcha/?username= HTTP/1.1" 400 29
+WARNING 2020-07-09 20:05:23,593 basehttp 124 "GET /user/captcha/?username= HTTP/1.1" 400 29
+WARNING 2020-07-09 20:05:25,630 basehttp 124 "GET /user/captcha/?username= HTTP/1.1" 400 29
+WARNING 2020-07-09 20:06:06,654 basehttp 124 "GET /user/captcha/?username= HTTP/1.1" 400 29
+WARNING 2020-07-09 20:06:50,206 basehttp 124 "GET /user/captcha/?username= HTTP/1.1" 400 29
+WARNING 2020-07-09 20:06:52,256 basehttp 124 "GET /user/captcha/?username= HTTP/1.1" 400 29
+INFO 2020-07-09 20:13:54,051 basehttp 124 "GET /user/captcha/?username=admin HTTP/1.1" 200 140
+INFO 2020-07-09 20:14:00,297 basehttp 124 "POST /user/captcha/ HTTP/1.1" 200 17
+INFO 2020-07-09 20:14:02,424 basehttp 124 "POST /user/login/ HTTP/1.1" 200 323
+INFO 2020-07-09 20:14:04,556 basehttp 124 "GET /home/nav/ HTTP/1.1" 200 432
+INFO 2020-07-09 20:14:04,559 basehttp 124 "GET /home/banner/ HTTP/1.1" 200 342
+INFO 2020-07-09 20:14:04,596 basehttp 124 "GET /media/banner/120P3132330-0.jpg HTTP/1.1" 304 0
+INFO 2020-07-09 20:14:04,597 basehttp 124 "GET /media/banner/120P3132330-15.jpg HTTP/1.1" 304 0
+INFO 2020-07-09 20:14:04,598 basehttp 124 "GET /media/banner/3dbcb2a9d8da469db071116bf60529e2_heji6df.jpeg HTTP/1.1" 304 0
+INFO 2020-07-09 20:14:06,599 basehttp 124 "GET /home/nav/ HTTP/1.1" 200 432
+WARNING 2020-07-09 20:19:30,421 basehttp 124 "GET /user/captcha/?username= HTTP/1.1" 400 29
+WARNING 2020-07-09 20:21:25,808 basehttp 124 "GET /user/captcha/?username= HTTP/1.1" 400 29
+WARNING 2020-07-09 20:24:11,249 basehttp 124 "GET /user/captcha/?username= HTTP/1.1" 400 29
+INFO 2020-07-09 20:25:15,609 basehttp 124 "GET /user/captcha/?username=admin HTTP/1.1" 200 140
+INFO 2020-07-09 20:25:21,985 basehttp 124 "POST /user/captcha/ HTTP/1.1" 200 17
+INFO 2020-07-09 20:25:24,110 basehttp 124 "POST /user/login/ HTTP/1.1" 200 323
+INFO 2020-07-09 20:25:26,255 basehttp 124 "GET /home/banner/ HTTP/1.1" 200 342
+INFO 2020-07-09 20:25:26,255 basehttp 124 "GET /home/nav/ HTTP/1.1" 200 432
+INFO 2020-07-09 20:25:28,330 basehttp 124 "GET /home/nav/ HTTP/1.1" 200 432
+INFO 2020-07-09 20:26:03,485 basehttp 124 "GET /user/captcha/?username=admin HTTP/1.1" 200 140
+INFO 2020-07-09 20:26:14,529 basehttp 124 "POST /user/captcha/ HTTP/1.1" 200 17
+INFO 2020-07-09 20:26:16,658 basehttp 124 "POST /user/login/ HTTP/1.1" 200 323
+INFO 2020-07-09 20:26:18,793 basehttp 124 "GET /home/banner/ HTTP/1.1" 200 342
+INFO 2020-07-09 20:26:18,793 basehttp 124 "GET /home/nav/ HTTP/1.1" 200 432
+INFO 2020-07-09 20:26:18,831 basehttp 124 "GET /media/banner/120P3132330-0.jpg HTTP/1.1" 304 0
+INFO 2020-07-09 20:26:18,835 basehttp 124 "GET /media/banner/120P3132330-15.jpg HTTP/1.1" 304 0
+INFO 2020-07-09 20:26:18,838 basehttp 124 "GET /media/banner/3dbcb2a9d8da469db071116bf60529e2_heji6df.jpeg HTTP/1.1" 304 0
+INFO 2020-07-09 20:26:20,848 basehttp 124 "GET /home/nav/ HTTP/1.1" 200 432
+INFO 2020-07-09 20:30:24,913 basehttp 124 "GET /user/captcha/?username=admin HTTP/1.1" 200 140
+INFO 2020-07-09 20:30:30,525 basehttp 124 "POST /user/captcha/ HTTP/1.1" 200 17
+INFO 2020-07-09 20:30:32,653 basehttp 124 "POST /user/login/ HTTP/1.1" 200 323
+INFO 2020-07-09 20:30:34,780 basehttp 124 "GET /home/nav/ HTTP/1.1" 200 432
+INFO 2020-07-09 20:30:34,789 basehttp 124 "GET /home/banner/ HTTP/1.1" 200 342
+INFO 2020-07-09 20:30:36,825 basehttp 124 "GET /home/nav/ HTTP/1.1" 200 432
+INFO 2020-07-09 20:31:00,105 basehttp 124 "GET /user/captcha/?username=admin HTTP/1.1" 200 140
+INFO 2020-07-09 20:31:05,669 basehttp 124 "POST /user/captcha/ HTTP/1.1" 200 17
+INFO 2020-07-09 20:31:07,794 basehttp 124 "POST /user/login/ HTTP/1.1" 200 323
+INFO 2020-07-09 20:31:09,917 basehttp 124 "GET /home/nav/ HTTP/1.1" 200 432
+INFO 2020-07-09 20:31:09,934 basehttp 124 "GET /home/banner/ HTTP/1.1" 200 342
+INFO 2020-07-09 20:31:11,979 basehttp 124 "GET /home/nav/ HTTP/1.1" 200 432
+INFO 2020-07-09 20:31:35,295 basehttp 124 "GET /user/captcha/?username=admin HTTP/1.1" 200 140
+INFO 2020-07-09 20:31:45,933 basehttp 124 "GET /user/captcha/?username=admin HTTP/1.1" 200 140
+INFO 2020-07-09 20:31:55,748 basehttp 124 "POST /user/captcha/ HTTP/1.1" 200 17
+INFO 2020-07-09 20:31:57,873 basehttp 124 "POST /user/login/ HTTP/1.1" 200 323
+INFO 2020-07-09 20:32:00,011 basehttp 124 "GET /home/nav/ HTTP/1.1" 200 432
+INFO 2020-07-09 20:32:00,027 basehttp 124 "GET /home/banner/ HTTP/1.1" 200 342
+INFO 2020-07-09 20:32:02,069 basehttp 124 "GET /home/nav/ HTTP/1.1" 200 432
+INFO 2020-07-09 20:34:21,614 basehttp 124 "GET /user/captcha/?username=admin HTTP/1.1" 200 140
+INFO 2020-07-09 20:34:41,286 basehttp 124 "GET /user/captcha/?username=admin HTTP/1.1" 200 140
+INFO 2020-07-09 20:35:00,197 basehttp 124 "POST /user/captcha/ HTTP/1.1" 200 17
+INFO 2020-07-09 20:35:02,322 basehttp 124 "POST /user/login/ HTTP/1.1" 200 323
+INFO 2020-07-09 20:35:04,419 basehttp 124 "GET /home/nav/ HTTP/1.1" 200 432
+INFO 2020-07-09 20:35:04,420 basehttp 124 "GET /home/banner/ HTTP/1.1" 200 342
+INFO 2020-07-09 20:35:06,460 basehttp 124 "GET /home/nav/ HTTP/1.1" 200 432
+INFO 2020-07-09 20:35:08,072 basehttp 124 "GET /user/captcha/?username=admin HTTP/1.1" 200 140
+INFO 2020-07-09 20:35:14,379 basehttp 124 "POST /user/captcha/ HTTP/1.1" 200 17
+INFO 2020-07-09 20:35:16,502 basehttp 124 "POST /user/login/ HTTP/1.1" 200 323
+INFO 2020-07-09 20:35:18,603 basehttp 124 "GET /home/banner/ HTTP/1.1" 200 342
+INFO 2020-07-09 20:35:18,612 basehttp 124 "GET /home/nav/ HTTP/1.1" 200 432
+INFO 2020-07-09 20:35:20,679 basehttp 124 "GET /home/nav/ HTTP/1.1" 200 432
+INFO 2020-07-09 20:35:28,262 basehttp 124 "GET /user/captcha/?username=admin HTTP/1.1" 200 140
+INFO 2020-07-09 20:35:33,929 basehttp 124 "POST /user/captcha/ HTTP/1.1" 200 17
+INFO 2020-07-09 20:35:36,057 basehttp 124 "POST /user/login/ HTTP/1.1" 200 323
+INFO 2020-07-09 20:35:38,145 basehttp 124 "GET /home/nav/ HTTP/1.1" 200 432
+INFO 2020-07-09 20:35:38,148 basehttp 124 "GET /home/banner/ HTTP/1.1" 200 342
+INFO 2020-07-09 20:35:40,185 basehttp 124 "GET /home/nav/ HTTP/1.1" 200 432
+INFO 2020-07-09 20:36:16,015 basehttp 124 "GET /home/nav/ HTTP/1.1" 200 432
+INFO 2020-07-09 20:36:16,020 basehttp 124 "GET /home/banner/ HTTP/1.1" 200 342
+INFO 2020-07-09 20:36:18,067 basehttp 124 "GET /home/nav/ HTTP/1.1" 200 432
+INFO 2020-07-09 20:40:59,374 basehttp 124 "GET /home/nav/ HTTP/1.1" 200 432
+INFO 2020-07-09 20:42:18,249 basehttp 124 "GET /home/nav/ HTTP/1.1" 200 432
+ERROR 2020-07-09 20:42:18,254 basehttp 124 "GET /home/nav/ HTTP/1.1" 500 59
+INFO 2020-07-09 20:42:20,295 basehttp 124 "GET /home/nav/ HTTP/1.1" 200 432
+INFO 2020-07-09 20:42:20,296 basehttp 124 "GET /home/banner/ HTTP/1.1" 200 342
+INFO 2020-07-09 20:42:20,322 basehttp 124 "GET /media/banner/120P3132330-0.jpg HTTP/1.1" 304 0
+INFO 2020-07-09 20:42:20,325 basehttp 124 "GET /media/banner/120P3132330-15.jpg HTTP/1.1" 304 0
+INFO 2020-07-09 20:42:20,326 basehttp 124 "GET /media/banner/3dbcb2a9d8da469db071116bf60529e2_heji6df.jpeg HTTP/1.1" 304 0
+INFO 2020-07-09 20:42:22,345 basehttp 124 "GET /home/nav/ HTTP/1.1" 200 432
+INFO 2020-07-09 20:42:34,551 basehttp 124 "GET /user/captcha/?username=admin HTTP/1.1" 200 140
+INFO 2020-07-09 20:42:41,218 basehttp 124 "OPTIONS /user/captcha/ HTTP/1.1" 200 0
+INFO 2020-07-09 20:42:41,224 basehttp 124 "POST /user/captcha/ HTTP/1.1" 200 17
+INFO 2020-07-09 20:42:41,233 basehttp 124 "OPTIONS /user/login/ HTTP/1.1" 200 0
+INFO 2020-07-09 20:42:43,370 basehttp 124 "POST /user/login/ HTTP/1.1" 200 323
+INFO 2020-07-09 20:42:45,445 basehttp 124 "GET /home/nav/ HTTP/1.1" 200 432
+INFO 2020-07-09 20:42:45,459 basehttp 124 "GET /home/banner/ HTTP/1.1" 200 342
+INFO 2020-07-09 20:42:47,487 basehttp 124 "GET /home/nav/ HTTP/1.1" 200 432
+ERROR 2020-07-09 20:42:47,488 basehttp 124 "GET /home/nav/ HTTP/1.1" 500 59
+INFO 2020-07-09 20:42:48,674 basehttp 124 "GET /home/nav/ HTTP/1.1" 200 432
+INFO 2020-07-09 20:42:48,677 basehttp 124 "GET /home/banner/ HTTP/1.1" 200 342
+INFO 2020-07-09 20:42:50,708 basehttp 124 "GET /home/nav/ HTTP/1.1" 200 432
+INFO 2020-07-09 20:45:30,672 basehttp 124 "GET /home/nav/ HTTP/1.1" 200 432
+INFO 2020-07-09 20:45:50,950 basehttp 124 "GET /user/captcha/?username=admin HTTP/1.1" 200 140
+INFO 2020-07-09 20:46:08,246 basehttp 124 "GET /user/captcha/?username=admin HTTP/1.1" 200 140
+INFO 2020-07-09 20:46:28,195 basehttp 124 "POST /user/captcha/ HTTP/1.1" 200 17
+INFO 2020-07-09 20:46:30,319 basehttp 124 "POST /user/login/ HTTP/1.1" 200 323
+INFO 2020-07-09 20:46:32,405 basehttp 124 "GET /home/nav/ HTTP/1.1" 200 432
+INFO 2020-07-09 20:46:32,409 basehttp 124 "GET /home/banner/ HTTP/1.1" 200 342
+INFO 2020-07-09 20:46:34,454 basehttp 124 "GET /home/nav/ HTTP/1.1" 200 432
+INFO 2020-07-09 20:46:37,568 basehttp 124 "GET /home/nav/ HTTP/1.1" 200 432
+INFO 2020-07-09 20:46:37,576 basehttp 124 "GET /home/banner/ HTTP/1.1" 200 342
+INFO 2020-07-09 20:46:39,613 basehttp 124 "GET /home/nav/ HTTP/1.1" 200 432

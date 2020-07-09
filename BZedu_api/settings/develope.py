@@ -9,7 +9,7 @@ https://docs.djangoproject.com/en/3.0/topics/settings/
 For the full list of settings and their values, see
 https://docs.djangoproject.com/en/3.0/ref/settings/
 """
-
+import datetime
 import os
 
 # Build paths inside the project like this: os.path.join(BASE_DIR, ...)
@@ -50,6 +50,7 @@ INSTALLED_APPS = [
     'crispy_forms',
     'reversion',
 
+    'user',
     'home',
 ]
 
@@ -92,7 +93,7 @@ WSGI_APPLICATION = 'BZedu_api.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': "ems",
+        'NAME': "edu_api",
         'HOST': "localhost",
         'USER': "root",
         'PASSWORD': '123456',
@@ -139,13 +140,37 @@ USE_TZ = True
 
 STATIC_URL = '/static/'
 
+# DRF 默认配置
 REST_FRAMEWORK = {
-    'EXCEPTION_HANDLER': 'utils.exceptions.exception_handler',
+    # 全局异常配置
+    "EXCEPTION_HANDLER": "utils.exceptions.exception_handler",
+    # 添加认证方式
+    'DEFAULT_AUTHENTICATION_CLASSES': [
+        'rest_framework_jwt.authentication.JSONWebTokenAuthentication',
+        'rest_framework.authentication.SessionAuthentication',
+        'rest_framework.authentication.BasicAuthentication',
+    ],
+}
+
+# jwt配置
+JWT_AUTH = {
+    # 有效时间
+    'JWT_EXPIRATION_DELTA': datetime.timedelta(seconds=300),
+    # 自定义jwt返回值的格式方法
+    'JWT_RESPONSE_PAYLOAD_HANDLER': 'user.utils.jwt_response_payload_handler',
 }
 
 MEDIA_ROOT = os.path.join(BASE_DIR, "media/")
 MEDIA_URL = "/media/"
 CORS_ORIGIN_ALLOW_ALL = True
+
+# 注册自定义用户模型 格式必须是app.表明
+AUTH_USER_MODEL = 'user.UserInfo'
+
+# 自定义多条件登录
+AUTHENTICATION_BACKENDS = [
+    'user.utils.UserAuthBackend',
+]
 
 # 项目的日志配置
 LOGGING = {
