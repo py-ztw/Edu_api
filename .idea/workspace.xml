@@ -2,24 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fd60b82a-ec7f-43fb-82ea-6ff06ef5ee2c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/BZedu_api/apps/course/BaseModel.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BZedu_api/apps/course/adminx.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BZedu_api/apps/course/pagination.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BZedu_api/apps/course/serializer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BZedu_api/apps/course/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BZedu_api/media/course/2452c9d2-3539-447b-a98a-99378a750dee.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BZedu_api/media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BZedu_api/media/course/2efe076a-8378-4980-9b94-606a0546fb93.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BZedu_api/media/course/307a9365-a113-4df8-916a-7396aa898b65.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BZedu_api/media/course/74e724d3-5ee5-40aa-a4bf-98f866ca15ab.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BZedu_api/media/course/788dbf38-076d-4d1e-b7cc-4b69a5abbf35.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BZedu_api/media/course/7d0ac6cc-1487-4041-b42c-a0a9546f6aee.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BZedu_api/media/course/9000eeed-b0af-4df4-b6fb-c2becfcc5b18.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BZedu_api/media/course/a3dd8fd0-d395-4566-a573-a0e3f60d5f85.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BZedu_api/media/teacher/logo2x.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BZedu_api/settings/develope.py" beforeDir="false" afterPath="$PROJECT_DIR$/BZedu_api/settings/develope.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BZedu_api/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/BZedu_api/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/logs/lesson_api.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/lesson_api.log" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -63,7 +45,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/BZedu_api/apps/course/serializer.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
+            <state relative-caret-position="301">
               <caret line="18" column="74" selection-start-line="18" selection-start-column="74" selection-end-line="18" selection-end-column="74" />
               <folding>
                 <element signature="e#0#54#0" expanded="true" />
@@ -141,10 +123,10 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="273" />
-    <option name="width" value="1654" />
-    <option name="height" value="1088" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="272" />
+    <option name="width" value="1655" />
+    <option name="height" value="1089" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -223,7 +205,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Ems_vue" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Bz_edu" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
@@ -346,15 +328,15 @@
       <workItem from="1594548899263" duration="1169000" />
       <workItem from="1594635859485" duration="3407000" />
       <workItem from="1594642669239" duration="1101000" />
-      <workItem from="1594680414879" duration="13280000" />
+      <workItem from="1594680414879" duration="13480000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="61429000" />
+    <option name="totallyTimeSpent" value="61629000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="219" y="0" width="1323" height="870" extended-state="1" />
+    <frame x="219" y="0" width="1323" height="870" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.32173914" />
@@ -362,7 +344,7 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32931727" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.19376694" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.19376694" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -693,7 +675,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/BZedu_api/apps/course/serializer.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
+        <state relative-caret-position="301">
           <caret line="18" column="74" selection-start-line="18" selection-start-column="74" selection-end-line="18" selection-end-column="74" />
           <folding>
             <element signature="e#0#54#0" expanded="true" />
